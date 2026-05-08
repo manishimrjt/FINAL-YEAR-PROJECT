@@ -2,7 +2,7 @@
 PASS AND HASH ETCS
 
 # Start/Check Wazuh Services
-# sudo systemctl start wazuh-manager
+sudo systemctl start wazuh-manager
 sudo systemctl start wazuh-indexer
 sudo systemctl start wazuh-dashboard
 
@@ -12,7 +12,7 @@ sudo systemctl status wazuh-indexer
 sudo systemctl status wazuh-dashboard
 
 # TO Check Kali IP
-# ip a
+ip a
 
 # On Windows, Start Wazuh Agent Service
 Win + R
