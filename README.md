@@ -18,3 +18,7 @@ ip a
 Win + R
 services.msc
 Wazuh Agent -> START/RESTART
+
+#Open Dashboard
+https://YOUR_KALI_IP
+Agents → Active (1)
